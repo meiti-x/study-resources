@@ -1,7 +1,8 @@
-# study-path
+# study-resources
 
-## Session 1: Algorithms and Data Structure
-## Session 2: Core Concepts
-## Session 3: Clean Code
-## Session 4: Pardaiagms and patterns
-## Session 5: System Design
+## Algorithms and Data Structure
+## Core Concepts
+## Clean Code
+## Pardaiagms and patterns
+## System Design
+## Soft skills
